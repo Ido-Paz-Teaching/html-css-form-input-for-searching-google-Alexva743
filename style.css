@@ -1,0 +1,8 @@
+* {
+    margin: 5px;
+    font-weight:bold
+    /* display: block; */
+}
+input, label, select {
+    display: block;
+}
